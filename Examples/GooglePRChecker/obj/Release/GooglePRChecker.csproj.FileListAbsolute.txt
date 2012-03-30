@@ -1,0 +1,15 @@
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\GooglePageRankChecker.exe.config
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\GooglePageRankChecker.exe
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\GooglePageRankChecker.pdb
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\CarlosAg.ExcelXmlWriter.dll
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\DevRain.Data.Extracting.dll
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\DevRain.Data.Extracting.Features.dll
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\DevRain.Data.Extracting.pdb
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\bin\Release\DevRain.Data.Extracting.Features.pdb
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\obj\Release\GooglePRChecker.csprojResolveAssemblyReference.cache
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\obj\Release\GooglePRChecker.csproj.ResolveComReference.cache
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\obj\Release\GooglePageRankChecker.MainForm.resources
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\obj\Release\GooglePageRankChecker.Properties.Resources.resources
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\obj\Release\GooglePRChecker.csproj.GenerateResource.Cache
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\obj\Release\GooglePageRankChecker.exe
+D:\work\DataExtractingSDK\Examples\GooglePRChecker\obj\Release\GooglePageRankChecker.pdb

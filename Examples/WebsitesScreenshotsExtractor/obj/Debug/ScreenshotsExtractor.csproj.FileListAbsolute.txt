@@ -1,0 +1,12 @@
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\bin\Debug\WebsiteScreenshotsExtractor.exe.config
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\bin\Debug\WebsiteScreenshotsExtractor.exe
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\bin\Debug\WebsiteScreenshotsExtractor.pdb
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\bin\Debug\DevRain.Data.Extracting.dll
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\bin\Debug\DevRain.Data.Extracting.pdb
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\obj\Debug\ScreenshotsExtractor.csprojResolveAssemblyReference.cache
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\obj\Debug\Eol.Extracting.WebsiteScreenshotsExtractor.Properties.Resources.resources
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\obj\Debug\Eol.Extracting.WebsiteScreenshotsExtractor.Resources.resources
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\obj\Debug\Eol.Extracting.WebsiteScreenshotsExtractor.ScreenshotsExtractor.resources
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\obj\Debug\ScreenshotsExtractor.csproj.GenerateResource.Cache
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\obj\Debug\WebsiteScreenshotsExtractor.exe
+D:\work\DataExtractingSDK\Examples\WebsitesScreenshotsExtractor\obj\Debug\WebsiteScreenshotsExtractor.pdb

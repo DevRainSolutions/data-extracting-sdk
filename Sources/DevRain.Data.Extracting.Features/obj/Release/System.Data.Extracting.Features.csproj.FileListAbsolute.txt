@@ -1,0 +1,7 @@
+D:\work\DataExtractingSDK\System.Data.Extracting.Features\bin\Release\System.Data.Extracting.Features.dll
+D:\work\DataExtractingSDK\System.Data.Extracting.Features\bin\Release\System.Data.Extracting.Features.pdb
+D:\work\DataExtractingSDK\System.Data.Extracting.Features\bin\Release\System.Data.Extracting.dll
+D:\work\DataExtractingSDK\System.Data.Extracting.Features\bin\Release\System.Data.Extracting.pdb
+D:\work\DataExtractingSDK\System.Data.Extracting.Features\obj\Release\ResolveAssemblyReference.cache
+D:\work\DataExtractingSDK\System.Data.Extracting.Features\obj\Release\System.Data.Extracting.Features.dll
+D:\work\DataExtractingSDK\System.Data.Extracting.Features\obj\Release\System.Data.Extracting.Features.pdb

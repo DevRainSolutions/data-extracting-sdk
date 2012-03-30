@@ -1,0 +1,10 @@
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\bin\Debug\HabraPdfReader.exe.config
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\bin\Debug\HabraPdfReader.exe
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\bin\Debug\HabraPdfReader.pdb
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\bin\Debug\DevRain.Data.Extracting.dll
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\bin\Debug\DevRain.Data.Extracting.pdb
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\obj\Debug\HabraPdfReader.Form1.resources
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\obj\Debug\HabraPdfReader.Properties.Resources.resources
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\obj\Debug\HabraPDFReader.csproj.GenerateResource.Cache
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\obj\Debug\HabraPdfReader.exe
+D:\work\DataExtractingSDK\Examples\HabraPDFReader\obj\Debug\HabraPdfReader.pdb
