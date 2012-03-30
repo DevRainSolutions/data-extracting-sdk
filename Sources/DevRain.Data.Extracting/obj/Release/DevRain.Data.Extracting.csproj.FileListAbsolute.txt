@@ -1,9 +1,0 @@
-D:\work3\DataExtractingSDK\Sources\DevRain.Data.Extracting\bin\Release\DevRain.Data.Extracting.dll
-D:\work3\DataExtractingSDK\Sources\DevRain.Data.Extracting\bin\Release\DevRain.Data.Extracting.pdb
-D:\work3\DataExtractingSDK\Sources\DevRain.Data.Extracting\obj\Release\ResolveAssemblyReference.cache
-D:\work3\DataExtractingSDK\Sources\DevRain.Data.Extracting\obj\Release\DevRain.Data.Extracting.dll
-D:\work3\DataExtractingSDK\Sources\DevRain.Data.Extracting\obj\Release\DevRain.Data.Extracting.pdb
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting\bin\Release\DevRain.Data.Extracting.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting\bin\Release\DevRain.Data.Extracting.pdb
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting\obj\Release\DevRain.Data.Extracting.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting\obj\Release\DevRain.Data.Extracting.pdb

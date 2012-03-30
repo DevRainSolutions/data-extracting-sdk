@@ -1,9 +1,0 @@
-J:\work\DataExtractingSDK\DevRain.Data.Mining\obj\Debug\ResolveAssemblyReference.cache
-J:\work\DataExtractingSDK\DevRain.Data.Mining\bin\Debug\DevRain.Data.Mining.dll
-J:\work\DataExtractingSDK\DevRain.Data.Mining\bin\Debug\DevRain.Data.Mining.pdb
-J:\work\DataExtractingSDK\DevRain.Data.Mining\obj\Debug\DevRain.Data.Mining.dll
-J:\work\DataExtractingSDK\DevRain.Data.Mining\obj\Debug\DevRain.Data.Mining.pdb
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Mining\bin\Debug\DevRain.Data.Mining.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Mining\bin\Debug\DevRain.Data.Mining.pdb
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Mining\obj\Debug\DevRain.Data.Mining.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Mining\obj\Debug\DevRain.Data.Mining.pdb

@@ -1,8 +1,0 @@
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\bin\Debug\DevRain.Data.Extracting.Features.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\bin\Debug\DevRain.Data.Extracting.Features.pdb
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\bin\Debug\CarlosAg.ExcelXmlWriter.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\bin\Debug\DevRain.Data.Extracting.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\bin\Debug\DevRain.Data.Extracting.pdb
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\obj\Debug\DevRain.Data.Extracting.Features.csprojResolveAssemblyReference.cache
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\obj\Debug\DevRain.Data.Extracting.Features.dll
-D:\work\DataExtractingSDK\Sources\DevRain.Data.Extracting.Features\obj\Debug\DevRain.Data.Extracting.Features.pdb
